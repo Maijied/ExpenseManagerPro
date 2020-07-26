@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="black">#000000</color>
+    <color name="white">#FBFBFB</color>
+    <color name="background">#FFFA00</color>
+    <color name="trans">#00000000</color>
+    <color name="lightWhite">#FAF4F4</color>
+    <color name="dashboard">#AAFF00</color>
+
+
+
+<!--    DashBoard-->
+
+    <color name="home_background">#f2f5f8</color>
+    <color name="banner_background">#F1E9CE</color>
+    <color name="banner_background_light">#56F1E9CE</color>
+
+
+
+</resources>

@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ExpenseManagerPro</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="optSimMSG">Enter one time password sent on +880123456789</string>
+    <string name="forgetpassdetails">Provide your account\'s Phone number for which you want to reset your password!</string>
+</resources>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_dashboard"
+            android:title="Dashboard"
+            android:icon="@drawable/dashboardicon"/>
+        <item
+            android:id="@+id/nav_income"
+            android:title="Income"
+            android:icon="@drawable/incicon"/>
+        <item
+            android:id="@+id/nav_cost"
+            android:title="Cost"
+            android:icon="@drawable/costico"/>
+        <item
+            android:id="@+id/nav_category"
+            android:title="Category"
+            android:icon="@drawable/categoryico"/>
+
+        <item
+            android:id="@+id/nav_print"
+            android:title="Print"
+            android:icon="@drawable/printico"/>
+
+    </group>
+
+    <item android:title="Profile">
+        <menu>
+            <group android:checkableBehavior="single">
+            <item
+                android:id="@+id/nav_profile"
+                android:title="Profile"
+                android:icon="@drawable/profileico"/>
+            <item
+                android:id="@+id/nav_logout"
+                android:title="Logout"
+                android:icon="@drawable/logoutico"/>
+            </group>
+        </menu>
+    </item>
+
+
+</menu>
